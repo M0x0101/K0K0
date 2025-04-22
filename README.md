@@ -1,7 +1,7 @@
 # K0K0_CTF
 ## Challenges 
 
-### [K0K0.apk]()
+### [K0K0.apk.zip](https://github.com/M0x0101/K0K0/raw/refs/heads/main/K0K0.apk.zip)
 
 ```
 KOKO though his app is the most secure app in the world, but I think any app that doesn’t have thorough checks can be hacked. Could you beat KOKO like I did?
