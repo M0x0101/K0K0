@@ -8,7 +8,7 @@ KOKO though his app is the most secure app in the world, but I think any app tha
 
 Your challenge: Make a static analysis to understand what K0K0 did in the background, and make android app to exploit K0K0 to obtain the flag.
 
-Note the flag saved at the this version of APP is a dummy flag, 
+Note the flag saved at the this version of APP is a dummy flag and flag filename is random, 
 If you'r exploit app can get it, it should get the right flag from my version 😉. 
 
 What you should send ?
