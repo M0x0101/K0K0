@@ -28,5 +28,6 @@ Good luck !
 ### Respect the others and don't post spoilers !!
 
 ## HoF:
-
+- [@z3r0xk](https://www.linkedin.com/in/karim-elsayed-a70921250/) (first blood)
+- 
 #### K0K0
